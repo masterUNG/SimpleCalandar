@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml:2:1-18:12
-	xmlns:android
-		ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml:2:11-69
 	package
 		ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml:3:7-29
 		INJECTED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml
@@ -13,6 +11,8 @@ ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/s
 		ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml:4:7-30
 		INJECTED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml:2:11-69
 application
 ADDED from /Users/masterUNG/MyWorkspace/Studio_Learning/TestSimplrCarlenda/app/src/main/AndroidManifest.xml:6:5-15:19
 	android:label
